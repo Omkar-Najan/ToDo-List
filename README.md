@@ -5,4 +5,3 @@ eg if javascript file's path is D:/project/todolist/javascript/todo.js then chan
 <script src="D:/project/todolist/javascript/todo.js"></script>
 
 ## accordingly proceed with css file . 
-## have a great Day
